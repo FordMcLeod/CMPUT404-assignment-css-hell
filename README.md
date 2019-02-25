@@ -19,7 +19,7 @@ I referred to the following sources:
 
 [Gradient text](https://css-tricks.com/snippets/css/gradient-text/)
 
-
+# Project goals
 
 You will skin 3 project gutenberg stories with custom CSS.
 
